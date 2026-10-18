@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>demo2_1</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Icons\rxnhg-slbf1-001.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icons\011-house.png" />
+    <None Remove="Images\house pool2.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Icons\rxnhg-slbf1-001.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icons\011-house.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\house pool2.jpg" />
+  </ItemGroup>
+
+</Project>
