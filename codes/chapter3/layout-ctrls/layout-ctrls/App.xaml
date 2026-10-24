@@ -1,0 +1,13 @@
+﻿<Application x:Class="layout_ctrls.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:layout_ctrls"
+             StartupUri="GridSplitterExampleWindow.xaml"
+             >
+    <!--学习Grid元素，使用这个：StartupUri="MainWindow.xaml"-->
+    <!--学习GridSplitter元素，使用这个：StartupUri="GridSplitterExampleWindow.xaml"-->
+    <Application.Resources>
+         
+    </Application.Resources>
+   
+</Application>
