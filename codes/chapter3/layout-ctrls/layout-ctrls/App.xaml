@@ -2,10 +2,13 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:layout_ctrls"
-             StartupUri="GridSplitterExampleWindow.xaml"
-             >
+             StartupUri="BorderAsGridLineForGrid.xaml"
+            >
+    
     <!--学习Grid元素，使用这个：StartupUri="MainWindow.xaml"-->
     <!--学习GridSplitter元素，使用这个：StartupUri="GridSplitterExampleWindow.xaml"-->
+    <!--学习StackPanel元素使用这个：StartupUri="StackPanelDemoWindow.xaml"-->
+    <!--学习Border元素使用整个：StartupUri="BorderDemoWindow.xaml"-->
     <Application.Resources>
          
     </Application.Resources>

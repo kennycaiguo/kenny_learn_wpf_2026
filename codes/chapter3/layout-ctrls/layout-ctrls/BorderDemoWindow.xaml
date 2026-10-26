@@ -1,0 +1,24 @@
+﻿<Window x:Class="layout_ctrls.BorderDemoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:layout_ctrls"
+        mc:Ignorable="d"
+        Title="BorderDemoWindow" Height="450" Width="800"  >
+    <Grid>
+        <!--可以给边界控件设置背景色，宽高，边框颜色，边框厚度，圆角半径-->
+        <Border Background="LightGray" Width="100" Height="40" 
+                BorderBrush="DeepPink" BorderThickness="0 0 0 0"
+                CornerRadius="15" MouseUp="Border_MouseUp">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">ClickMe</TextBlock>
+        </Border>
+    </Grid>
+    <!--<Border Background="AliceBlue" 
+         BorderBrush="DeepPink" BorderThickness="3"
+         CornerRadius="30">
+        <Grid>
+           
+        </Grid>
+    </Border>-->
+</Window>

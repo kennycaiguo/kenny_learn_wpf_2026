@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\gridsplitterexamplewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\gridsplitterexamplewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\borderasgridlineforgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\borderasgridlineforgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\borderdemowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\borderdemowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\borderdemowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\borderdemowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\stackpaneldemowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\stackpaneldemowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\gridsplitterexamplewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|solutionrelative:layout-ctrls\\gridsplitterexamplewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20681638-1437-48C6-9FB3-5F5BB6379F42}|layout-ctrls\\layout-ctrls.csproj|g:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,11 +45,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "BorderDemoWindow.xaml",
+              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderDemoWindow.xaml",
+              "RelativeDocumentMoniker": "layout-ctrls\\BorderDemoWindow.xaml",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderDemoWindow.xaml",
+              "RelativeToolTip": "layout-ctrls\\BorderDemoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-25T18:08:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackPanelDemoWindow.xaml",
+              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\StackPanelDemoWindow.xaml",
+              "RelativeDocumentMoniker": "layout-ctrls\\StackPanelDemoWindow.xaml",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\StackPanelDemoWindow.xaml",
+              "RelativeToolTip": "layout-ctrls\\StackPanelDemoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-25T16:58:09.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\App.xaml",
+              "RelativeDocumentMoniker": "layout-ctrls\\App.xaml",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\App.xaml",
+              "RelativeToolTip": "layout-ctrls\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-25T18:10:02.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorderAsGridLineForGrid.xaml",
+              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderAsGridLineForGrid.xaml",
+              "RelativeDocumentMoniker": "layout-ctrls\\BorderAsGridLineForGrid.xaml",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderAsGridLineForGrid.xaml",
+              "RelativeToolTip": "layout-ctrls\\BorderAsGridLineForGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-25T19:53:23.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorderDemoWindow.xaml.cs",
+              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderDemoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "layout-ctrls\\BorderDemoWindow.xaml.cs",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\BorderDemoWindow.xaml.cs",
+              "RelativeToolTip": "layout-ctrls\\BorderDemoWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T19:33:20.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ResourcePart.cs",
               "DocumentMoniker": "C:\\Users\\kenny\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
               "ToolTip": "C:\\Users\\kenny\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u53EA\u8BFB]",
@@ -44,43 +118,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml",
-              "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\App.xaml",
-              "RelativeDocumentMoniker": "layout-ctrls\\App.xaml",
-              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\App.xaml",
-              "RelativeToolTip": "layout-ctrls\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-24T20:48:22.344Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "GridSplitterExampleWindow.xaml",
               "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\GridSplitterExampleWindow.xaml",
               "RelativeDocumentMoniker": "layout-ctrls\\GridSplitterExampleWindow.xaml",
-              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\GridSplitterExampleWindow.xaml*",
-              "RelativeToolTip": "layout-ctrls\\GridSplitterExampleWindow.xaml*",
+              "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\GridSplitterExampleWindow.xaml",
+              "RelativeToolTip": "layout-ctrls\\GridSplitterExampleWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-24T20:48:08.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T20:48:08.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\MainWindow.xaml",
               "RelativeDocumentMoniker": "layout-ctrls\\MainWindow.xaml",
               "ToolTip": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\MainWindow.xaml",
               "RelativeToolTip": "layout-ctrls\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-24T17:54:48.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T17:54:48.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "G:\\my_projects_2026\\kenny_learn_wpf_2026\\codes\\chapter3\\layout-ctrls\\layout-ctrls\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "layout-ctrls\\MainWindow.xaml.cs",
@@ -88,8 +148,7 @@
               "RelativeToolTip": "layout-ctrls\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-24T17:54:45.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-24T17:54:45.221Z"
             }
           ]
         }

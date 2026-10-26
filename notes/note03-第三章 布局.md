@@ -227,3 +227,206 @@ xml
 
 ![image-20261024154331611](./note03-第三章 布局.assets/image-20261024154331611.png)
 
+### 5.可以开启GridSplitter的预览效果
+
+![image-20261024160130347](./note03-第三章 布局.assets/image-20261024160130347.png)
+
+#### 效果
+
+![image-20261024160218332](./note03-第三章 布局.assets/image-20261024160218332.png)
+
+# 4.StackPanel
+
+## 布局面板对比
+
+![image-20261025104735268](./note03-第三章 布局.assets/image-20261025104735268.png)
+
+### 说明
+
+![image-20261025105027928](./note03-第三章 布局.assets/image-20261025105027928.png)
+
+## 面板都有的布局属性
+
+![image-20261025105219106](./note03-第三章 布局.assets/image-20261025105219106.png)
+
+## 演练，
+
+### 1.还是上面的项目新建一个窗口，起名StackPanelDemoWindow
+
+![image-20261025105926422](./note03-第三章 布局.assets/image-20261025105926422.png)
+
+
+
+### 2.然后在App.xaml中把它设置为启动窗口
+
+![image-20261025110218695](./note03-第三章 布局.assets/image-20261025110218695.png)
+
+### 3.简单布局，注意：StackPanel默认的排列方向是垂直方向排列代码如下。
+
+![image-20261025113130900](./note03-第三章 布局.assets/image-20261025113130900.png)
+
+### 效果
+
+![image-20261025113201595](./note03-第三章 布局.assets/image-20261025113201595.png)
+
+### 4.如果需要它沿着水平方向排列，可以把Orientation属性改为horizontal，不过此时你需要修改一下控件的宽高
+
+![image-20261025113747289](./note03-第三章 布局.assets/image-20261025113747289.png)
+
+#### 效果
+
+![image-20261025113814288](./note03-第三章 布局.assets/image-20261025113814288.png)
+
+#### 注意：StackPanel没有滚动功能，也不好换行，显示不下就看不见。控件也有一个Padding属性，就是内边距
+
+![image-20261025115639143](./note03-第三章 布局.assets/image-20261025115639143.png)
+
+
+
+#### Margin属性的值的写法
+
+在 WPF 中，`Margin` 属性用于设置元素与其父容器或相邻元素之间的**外边距（Outer Space）**，它的类型是 `Thickness`。 [[1](https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/alignment-margins-and-padding-overview), [2](https://zhuanlan.zhihu.com/p/638766571)]
+
+------
+
+一、 语法格式与赋值方式
+
+`Margin` 可以通过以下几种方式进行赋值（单位为**设备独立像素 Device-Independent Pixels**）： [[1](https://learn.microsoft.com/zh-cn/dotnet/desktop/wpf/advanced/alignment-margins-and-padding-overview)]
+
+1. **统一设置四个方向（上下左右相同）**：
+
+   
+
+   xml
+
+   ```
+   <Button Margin="20" Content="四周外边距都为20" />
+   ```
+
+    
+
+2. **分别设置左右和上下（水平与垂直）**：
+
+   
+
+   xml
+
+   ```
+   <Button Margin="10, 20" Content="左右10，上下20" />
+   ```
+
+    
+
+3. **分别设置左、上、右、下（顺时针方向：`Left, Top, Right, Bottom`）**：
+
+   xml
+
+   ```
+   <Button Margin="10, 20, 30, 40" Content="左10, 上20, 右30, 下40" />
+   ```
+
+#  5、Border控件的使用
+
+## Border控件的额外属性
+
+![image-20261025120512764](./note03-第三章 布局.assets/image-20261025120512764.png)
+
+
+
+## 1.新建一个窗口，起名BorderDemoWindow
+
+![image-20261025120921282](./note03-第三章 布局.assets/image-20261025120921282.png)
+
+## 2.在App.xaml中把它设置为启动窗口
+
+![image-20261025121154756](./note03-第三章 布局.assets/image-20261025121154756.png)
+
+
+
+## 3.创建一个Border元素，设置他的一下属性，展示最基本的使用
+
+![image-20261025121624715](./note03-第三章 布局.assets/image-20261025121624715.png)
+
+#### 效果
+
+![image-20261025121713272](./note03-第三章 布局.assets/image-20261025121713272.png)
+
+
+
+## 4.Border元素的边框宽度可以设置4条边的厚度一样，也可以设置左右和上下的厚度不一样，先在左右，再设置上下，也可以设置4条边的厚度都不一样，元素遵循左上右下的顺时针方向设置
+
+![image-20261025125551909](./note03-第三章 布局.assets/image-20261025125551909.png)
+
+
+
+![image-20261025125658287](./note03-第三章 布局.assets/image-20261025125658287.png)
+
+#### 注意：不能设置3个值，会报错
+
+## 5、利用整个特性，我们可以把它设置成只有下面的边有厚度，其它边没有厚度，实现下划线的效果
+
+![image-20261025130020989](./note03-第三章 布局.assets/image-20261025130020989.png)
+
+## 6.可以把Border的高度设置为1或者2等非常小的数字，此时它就会变为一条分割线
+
+![image-20261025130409232](./note03-第三章 布局.assets/image-20261025130409232.png)
+
+
+
+## 7.可以在Border里面放置其它布局控件，可以把Border直接放在Window里面，然后可以在它里面放置一个Grid，此时你就可以通过调整Border的圆角半径实现一个圆角效果
+
+![image-20261025131051841](./note03-第三章 布局.assets/image-20261025131051841.png)
+
+## 8.Border的第三个作用是用来实现一个圆角按钮，注意，默认wpf的按钮没有圆角半径属性，注意需要TextBlock元素的配合，而且此时是不能用Click的，可以使用MouseDown或者MouseUp事件，这里使用MouseUp事件
+
+![image-20261025134530626](./note03-第三章 布局.assets/image-20261025134530626.png)
+
+## 9，添加事件处理代码
+
+![image-20261025134604317](./note03-第三章 布局.assets/image-20261025134604317.png)
+
+### 效果
+
+![image-20261025134633829](./note03-第三章 布局.assets/image-20261025134633829.png)
+
+### 注意：Border元素里面只能有一个元素，再放置一个就会报错
+
+![image-20261025134859250](./note03-第三章 布局.assets/image-20261025134859250.png)
+
+
+
+## 演练：Border作为Grid的网格线，因为Grid自带的网格线不好看
+
+### 1.新建一个窗口，起名BorderAsGridLineForGrid.xaml
+
+![image-20261025140934980](./note03-第三章 布局.assets/image-20261025140934980.png)
+
+
+
+
+
+### 2.在App.xaml中把它设置为启动窗口
+
+![image-20261025140957065](./note03-第三章 布局.assets/image-20261025140957065.png)
+
+### 3.然后给Grid划分为3行3列，其中有一行和一列是给Border使用的。边框作为分割线需要跨行或者跨列来使用，还有垂直分割要设置上边或者下边的边框宽度，水平分割设置左边或者右边的边框宽度
+
+![image-20261025190353729](./note03-第三章 布局.assets/image-20261025190353729.png)
+
+###  效果
+
+![image-20261025190459322](./note03-第三章 布局.assets/image-20261025190459322.png)
+
+## 总结
+
+![image-20261025185151312](./note03-第三章 布局.assets/image-20261025185151312.png)
+
+
+
+
+
+# 扩展：Window是根控件，不可用作为子控件
+
+注意Window是顶级控件，也就是根控件，把一个window元素添加到一个面板里面，编译不报错，运行报错，也就是说，不能把Window作为其他元素的子控件
+
+![image-20261025133347513](./note03-第三章 布局.assets/image-20261025133347513.png)
